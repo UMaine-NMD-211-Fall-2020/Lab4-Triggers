@@ -7,6 +7,8 @@ Code that uses 3 triggers as input, at least one from keyboard and one from mous
 Your code should be unique.
 
 ### WEDNESDAY LAB EXAMPLE END CODE
+Contains an event triggered by a mouse, an event triggered by a key press, and an event triggered by hovering over and clicking on a certain color. 
+```processing
 /* 
 Lab 4 - NMD 211
 FirstName LastName
@@ -98,8 +100,12 @@ void movingEllipse(){
     println();
   }
 }
-
+```
 ### FRIDAY LAB EXAMPLE END CODE
+Contains an event triggered by a mouse, an event triggered by a key press, and an event triggered by hovering over and clicking on a certain color. 
+Also contains a loaded image. 
+
+
 To run this code, you will need to download an image. 
 Therefore, you can download my github repo here. 
 ```processing
