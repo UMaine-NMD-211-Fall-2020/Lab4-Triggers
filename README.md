@@ -107,7 +107,7 @@ Also contains a loaded image.
 
 
 To run this code, you will need to download an image. 
-Therefore, you can download my github repo here. 
+Therefore, you can download my github repo here and run the code from this, or you can just see how the file is setup by reading the repo.  
 ```processing
 /*   
  Lab 4 - NMD 211 
